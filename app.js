@@ -39,7 +39,6 @@ let count=0;
             //palyer X
             box.innerText=`${palyer_2}`;
             palyerturn=true;
-            hgjhf
 
         }
         box.disabled=true;
