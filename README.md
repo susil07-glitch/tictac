@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/tictactoe.git
+git clone (https://github.com/susil07-glitch/tictac)
 cd tictactoe
 Open index.html in your browser or run the appropriate file using your programming language environment.
 
